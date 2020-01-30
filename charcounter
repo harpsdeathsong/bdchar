@@ -1,3 +1,5 @@
+<!DOCTYPE css>
+
 var CharCounter = (function (){
   var CharacterCounter, TextArea, cancel, install, css, React, getOwnerInstance;
 
